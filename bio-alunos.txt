@@ -5,3 +5,11 @@ Semestre: 4º
 Bairro: São Miguel Pta.
 Se trabalha: Trabalho com administrativo em hospital
 Objetivo: Atuar como analista de dados ou em engenharia de software.
+====================================================================
+Nome: Matheus Santos Morais Arruda
+RA: 825218417
+Curso: Engenharia de Software
+Semestre: 5º
+Bairro: Vila Maria
+Trabalho: Atualmente estagio com na area de ciencia de dados.
+Objetivo: Permancer na area e sair do pais.
